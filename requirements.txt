@@ -1,0 +1,4 @@
+# Python 3.9+ standard library only, plus:
+matplotlib>=3.7
+numpy>=1.23
+# (RealModel uses urllib from stdlib; no API SDK needed)
