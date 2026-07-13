@@ -19,7 +19,7 @@ that path is documented but optional.
 | `real_model.py` | Provider-agnostic adapter (OpenAI-compatible **and** Anthropic-native). Reads the key from an env var; **no key is stored**. |
 | `run_wave0.py` | Within-session experiment (H1): K repeats per case at temperature 0. |
 | `run_versions.py` | Cross-version drift experiment: same cases across dated releases of one model line. |
-| `make_figures.py` | Regenerates all paper figures (PDF + 600-dpi PNG) into `./figs/`. |
+
 
 **Data (real, used in the paper)**
 | file | rows | provenance |
