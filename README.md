@@ -1,4 +1,4 @@
-# Reproducibility package — *Governing Agentic AI in FinTech*
+#  *Governing Agentic AI in FinTech*
 
 This folder contains the code, data, and documentation behind the paper's
 empirical results (Section on the Verifiability Gap / propositions). It is
