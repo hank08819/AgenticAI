@@ -5,8 +5,8 @@ OSF — or commit-and-tag in a public repo — **before** baseline data collecti
 Leave no field blank; write "N/A" with a reason where a field does not apply.*
 
 - **Title:** Measuring the Reproducibility Shelf Life of Agentic AI Decisions in Financial Tasks
-- **Authors:** Henry Han (Baylor University); [RA/co-authors]
-- **Corresponding author:** Henry_Han@baylor.edu
+- **Authors:** Anonymized for review
+- **Corresponding author:** Anonymized for review
 - **Registration date:** __________ (must precede baseline `t0`)
 - **Linked paper:** "The Verifiability Gap: Governing Agentic AI in Financial Services," Proposition P4.
 - **Frozen-stimuli commit hash / tag:** __________ (record at registration)
